@@ -1,5 +1,5 @@
 ### Hi there 💊
-- I am a Python programmer. I've been doing this job for 4 years.
+- I am a HTML programmer. I've been doing this job for 2 years.
 <!--
 **ParazitHap/ParazitHap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
